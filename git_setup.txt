@@ -1,0 +1,4 @@
+﻿=== git init ===
+Initialized empty Git repository in D:/妗岄潰/杞/杞欢璁捐甯堝巻骞寸湡棰?.git/
+=== 确认分支名(设main) ===
+=== add all ===
